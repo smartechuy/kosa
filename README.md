@@ -1,6 +1,5 @@
 kosa
 ====
-
 use cases
 =========
 
